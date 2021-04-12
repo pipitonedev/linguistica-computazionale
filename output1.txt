@@ -1,0 +1,146 @@
+
+
+- NUMERO TOTALE  DELLE FRASI -
+
+Il numero totale delle frasi presenti nel testo 1 ( metamorphosis.txt ) sono: 921
+Il numero totale delle  frasi presenti nel testo 2 ( postscript.txt ) sono: 2584
+postscript.txt ha più frasi di metamorphosis.txt
+
+
+- NUMERO TOTALE DEI TOKEN -
+
+Il testo 1 ( metamorphosis.txt ) ha 28432 tokens totali
+Il testo 2 ( postscript.txt ) ha 53029 tokens totali
+postscript.txt ha più tokens di metamorphosis.txt
+
+
+- LUNGHEZZA MEDIA DELLE FRASI IN TERMINI DI TOKEN -
+
+La lunghezza media delle frasi in termini di token del testo 1 ( metamorphosis.txt ) è: 30.8707926167
+La lunghezza media delle frasi in termini di token del testo 2 ( postscript.txt ) é: 20.5220588235
+metamorphosis.txt ha frasi più lunghe di postscript.txt 
+
+
+
+- LUNGHEZZA MEDIA DELLE PAROLE IN TERMINI DI CARATTERI -
+
+la lunghezza media delle parole in termini di token del testo 1 ( metamorphosis.txt ) è: 3.97928390546
+La lunghezza media delle parole in termini di token del testo 2 ( postscript.txt ) è: 3.77708423693
+metamorphosis.txt ha parole più lunghe di postscript.txt
+
+
+- GRANDEZZA VOCABOLARIO - 
+
+La Grandezza del Vocabolario del File  metamorphosis.txt è di  3336 tokens
+La Grandezza del Vocabolario del File postscript.txt è di  7657 tokens
+
+
+- INCREMENTO DEGLI HAPAX OGNI 1000 TOKEN - 
+
+metamorphosis.txt 	postscript.txt
+- 312                  - 469                 
+- 448                  - 613                 
+- 520                  - 760                 
+- 589                  - 922                 
+- 634                  - 1043                
+- 690                  - 1140                
+- 737                  - 1300                
+- 793                  - 1413                
+- 841                  - 1499                
+- 887                  - 1595                
+- 937                  - 1696                
+- 1011                 - 1801                
+- 1031                 - 1901                
+- 1040                 - 1980                
+- 1072                 - 2053                
+- 1106                 - 2107                
+- 1168                 - 2187                
+- 1213                 - 2250                
+- 1250                 - 2294                
+- 1273                 - 2372                
+- 1304                 - 2483                
+- 1332                 - 2573                
+- 1345                 - 2643                
+- 1379                 - 2748                
+- 1418                 - 2793                
+- 1476                 - 2857                
+- 1525                 - 2903                
+- 1663                 - 2991                
+- 1699                 - 3049                
+
+
+- RAPPORTO SOSTANTIVI/VERBI -
+
+IL RAPPORTO SOSTANTIVI/VERBI NEL TESTO 1 ( metamorphosis.txt ) E':  1.07773631841
+IL RAPPORTO SOSTANTIVI/VERBI NEL TESTO 2 ( postscript.txt ) E':  1.50920322743
+
+
+- LE 10 POS PIU' FREQUENTI DEL TESTO 1 ( metamorphosis.txt ) -
+
+POS---> NN	Frequenza---> 3521
+POS---> IN	Frequenza---> 3320
+POS---> DT	Frequenza---> 2271
+POS---> RB	Frequenza---> 2026
+POS---> PRP	Frequenza---> 2025
+POS---> VBD	Frequenza---> 1876
+POS---> ,	Frequenza---> 1442
+POS---> JJ	Frequenza---> 1346
+POS---> VB	Frequenza---> 1284
+POS---> CC	Frequenza---> 1010
+
+
+- LE 10 POS PIU' FREQUENTI DEL TESTO 2 ( postscript.txt ) -
+
+POS---> NN	Frequenza---> 7410
+POS---> IN	Frequenza---> 4980
+POS---> DT	Frequenza---> 4964
+POS---> PRP	Frequenza---> 3298
+POS---> JJ	Frequenza---> 3006
+POS---> NNP	Frequenza---> 2877
+POS---> ,	Frequenza---> 2848
+POS---> .	Frequenza---> 2589
+POS---> VBD	Frequenza---> 2382
+POS---> RB	Frequenza---> 2035
+
+
+- I 10 BIGRAMMI DI POS TAG CON PROBABILITA' CONDIZIONATA MASSIMA -
+
+			metamorphosis.txt 											postscript.txt
+Bigramma --->NN  - NN                    Prob. Condizionata ---> 1.53 - %                    Bigramma ---> NN  - NN                   Prob. Condizionata ---> 1.95 %                   
+Bigramma --->NN  - IN                    Prob. Condizionata ---> 1.45 - %                    Bigramma ---> NN  - IN                   Prob. Condizionata ---> 1.31 %                   
+Bigramma --->IN  - NN                    Prob. Condizionata ---> 1.45 - %                    Bigramma ---> IN  - NN                   Prob. Condizionata ---> 1.31 %                   
+Bigramma --->IN  - IN                    Prob. Condizionata ---> 1.36 - %                    Bigramma ---> NN  - DT                   Prob. Condizionata ---> 1.31 %                   
+Bigramma --->NN  - DT                    Prob. Condizionata ---> 0.99 - %                    Bigramma ---> DT  - NN                   Prob. Condizionata ---> 1.31 %                   
+Bigramma --->DT  - NN                    Prob. Condizionata ---> 0.99 - %                    Bigramma ---> IN  - IN                   Prob. Condizionata ---> 0.88 %                   
+Bigramma --->IN  - DT                    Prob. Condizionata ---> 0.93 - %                    Bigramma ---> IN  - DT                   Prob. Condizionata ---> 0.88 %                   
+Bigramma --->DT  - IN                    Prob. Condizionata ---> 0.93 - %                    Bigramma ---> DT  - IN                   Prob. Condizionata ---> 0.88 %                   
+Bigramma --->RB  - NN                    Prob. Condizionata ---> 0.88 - %                    Bigramma ---> DT  - DT                   Prob. Condizionata ---> 0.88 %                   
+Bigramma --->NN  - RB                    Prob. Condizionata ---> 0.88 - %                    Bigramma ---> PRP - NN                   Prob. Condizionata ---> 0.87 %                   
+
+
+- I 10 BIGRAMMI DI POS CON FORZA ASSOCIATIVA MASSIMA (CALCOLATA IN TERMINI DI LOCAL MUTUAL INFORMATION) DEL TESTO 1 ( metamorphosis.txt )  -
+
+Bigramma---> ('DT', 'NN')	Forza Associativa---> 2758.58115515
+Bigramma---> ('IN', 'DT')	Forza Associativa---> 2160.33474959
+Bigramma---> ('TO', 'VB')	Forza Associativa---> 2098.51081944
+Bigramma---> ('PRP', 'VBD')	Forza Associativa---> 2069.5726107
+Bigramma---> ('PRP$', 'NN')	Forza Associativa---> 1440.70364396
+Bigramma---> ('MD', 'VB')	Forza Associativa---> 1147.50946751
+Bigramma---> ('NN', 'IN')	Forza Associativa---> 1071.62796037
+Bigramma---> ('NNP', 'NNP')	Forza Associativa---> 1016.13656283
+Bigramma---> ('DT', 'JJ')	Forza Associativa---> 964.685932562
+Bigramma---> ('JJ', 'NN')	Forza Associativa---> 890.71599977
+
+
+- I 10 BIGRAMMI DI POS CON FORZA ASSOCIATIVA MASSIMA (CALCOLATA IN TERMINI DI LOCAL MUTUAL INFORMATION) DEL TESTO 2 ( postscript.txt ) -
+
+Bigramma---> ('DT', 'NN')	Forza Associativa---> 5056.95289973
+Bigramma---> ('IN', 'DT')	Forza Associativa---> 3813.29309714
+Bigramma---> ('TO', 'VB')	Forza Associativa---> 2697.28490791
+Bigramma---> ('NNP', 'NNP')	Forza Associativa---> 2671.33753454
+Bigramma---> ('JJ', 'NN')	Forza Associativa---> 2562.76290849
+Bigramma---> ('DT', 'JJ')	Forza Associativa---> 2436.90484787
+Bigramma---> ('PRP', 'VBP')	Forza Associativa---> 2433.84585449
+Bigramma---> ('NN', 'IN')	Forza Associativa---> 2218.01821961
+Bigramma---> (',', 'CC')	Forza Associativa---> 2065.07519138
+Bigramma---> ('PRP', 'VBD')	Forza Associativa---> 1969.70003521
